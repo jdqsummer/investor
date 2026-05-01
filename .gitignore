@@ -1,0 +1,9 @@
+# 忽略 node_modules 目录
+node_modules/
+# 忽略所有 .log 文件
+*.log
+# 忽略 agent-rules 目录
+agent-rules/
+# 忽略 .claude 目录
+.claude/
+# 忽略投资笔记目录

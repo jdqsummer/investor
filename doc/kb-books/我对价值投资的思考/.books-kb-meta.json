@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-04-30T00:00:00+08:00",
+  "book_title": "我对价值投资的思考",
+  "book_type": "non-fiction",
+  "analysis_summary": {
+    "chapter_count": 16,
+    "estimated_words": 45000,
+    "concept_count": 63,
+    "case_count": 40
+  },
+  "kb_structure": {
+    "content_kb": ["章节索引", "核心论点", "案例素材索引"],
+    "reader_kb": ["关键术语表", "常见问题", "延伸阅读"],
+    "creation_kb": ["写作风格指南", "修订记录", "读者反馈"]
+  },
+  "source_directory": "我对价值投资的思考",
+  "generator_version": "1.0.0",
+  "files_generated": [
+    "书籍概览.md",
+    "核心概念索引.md",
+    "知识体系图谱.md",
+    "内容知识库/章节索引.md",
+    "内容知识库/案例素材索引.md",
+    "读者知识库/关键术语表.md",
+    "读者知识库/常见问题.md",
+    "读者知识库/延伸阅读.md",
+    "创作知识库/写作风格指南.md",
+    "创作知识库/修订记录.md",
+    "创作知识库/读者反馈.md",
+    ".books-kb-meta.json"
+  ],
+  "book_status": "创作中",
+  "target_audience": "刚步入股市的散户投资者、普通个人投资者、投资新手",
+  "core_themes": [
+    "价值投资理念与实践",
+    "巴菲特与芒格投资思想学习",
+    "人性洞察与投资心理",
+    "企业内在价值与安全边际",
+    "长期持有与复利效应"
+  ]
+}
